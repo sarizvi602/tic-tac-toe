@@ -1,0 +1,87 @@
+html, body {
+  background-color: black;
+}
+
+#xbtn {
+  margin-top: 20px;
+  margin-bottom: 40px;
+  margin-right: 20px;
+}
+
+#obtn {
+  margin-top: 20px;
+  margin-bottom: 40px;
+  margin-left: 20px;
+}
+
+p {
+  font-size: 20px;
+  color: blue;
+}
+
+#tttbox {
+  border: 4px solid blue;
+  border-radius: 20px;
+  padding: 0 15px 0 15px;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+}
+
+.area {
+  height: 150px;
+  background-color: #000;
+  font-size: 80px;
+  padding-top: 20px;
+  color: blue;
+}
+
+.area:hover{
+  background-color: rgba(0,0,255,.8);
+  color: white;
+}
+
+.one {
+  border-right: 2px solid blue;
+  border-bottom: 2px solid blue;
+  border-radius: 15px 0 0 0;
+}
+
+.two {
+  border-bottom: 2px solid blue;  
+}
+
+.three {
+  border-left: 2px solid blue;
+  border-bottom: 2px solid blue;
+  border-radius: 0 15px 0 0;
+}
+
+.four {
+  border-right: 2px solid blue;
+  border-bottom: 2px solid blue;
+}
+
+.five {
+  border-bottom: 2px solid blue;  
+}
+
+.six {
+  border-left: 2px solid blue;
+  border-bottom: 2px solid blue;
+}
+
+.seven {
+  border-right: 2px solid blue;
+  border-radius: 0 0 0 15px;
+}
+
+.nine {
+  border-left: 2px solid blue;
+  border-radius: 0 0 15px 0;
+}
+
+.footer {
+  color: blue;
+}
